@@ -162,7 +162,7 @@ export function ChatContainer() {
       {/* Sidebar */}
       <div className="w-72 bg-surface border-r border-border flex flex-col">
         <div className="p-4 border-b border-border">
-          <h1 className="text-lg font-bold text-primary">AI Group Chat</h1>
+          <h1 className="text-lg font-bold text-primary">AI Roundtable</h1>
         </div>
 
         <div className="p-4 border-b border-border">

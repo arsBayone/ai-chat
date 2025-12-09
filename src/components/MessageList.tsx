@@ -19,7 +19,7 @@ export function MessageList() {
       {messages.length === 0 ? (
         <div className="h-full flex items-center justify-center text-muted text-center">
           <div>
-            <p className="text-lg mb-2">Welcome to AI Group Chat</p>
+            <p className="text-lg mb-2">Welcome to AI Roundtable</p>
             <p className="text-sm">
               Select models from the sidebar and start chatting!
             </p>
